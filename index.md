@@ -12,3 +12,15 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script>
+  (function() {
+    var cx = '015705803977090371190:fjdqrltw2bs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
